@@ -1,0 +1,3 @@
+Method,Nodes,Edges,Communities,Modularity
+Louvain,300,1913,7,0.2198373633616418
+Girvan-Newman,300,1913,12,0.001024847461545386
